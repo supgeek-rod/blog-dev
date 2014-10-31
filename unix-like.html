@@ -1,0 +1,14 @@
+---
+layout: default
+title: unix Like &nbsp;- Rod
+permalink: /unix-like/
+---
+<div class="wrapper">
+	
+	<h2>Unix Like</h2>
+	<ul class="postsList">
+	{% for post in site.categories['unix-like'] %}
+		{% include posts-list.html %}
+	{% endfor %}
+	</ul>
+</div>
