@@ -1,0 +1,16 @@
+markdown: redcarpet
+redcarpet:
+    extensions: ["autolink", "tables", "strikethrough"]
+permalink: /:year/:month/:day/:title 
+title: Sup Rod 
+url: http://supgeek-rod.com
+githubEditBaseURL: https://github.com/supgeek-rod/sup.rod/tree/gh-pages/
+subscribe: http://supgeek-rod.com/atom.xml
+exclude: [ README.md, newpost.rb ]
+domain: supgeek-rod.com
+author: Sup Rod
+email: supgeek.rod@gmail.com
+twitterID: notwitter 
+googleAnalyticsID: UA-40338826-2
+disqusShortname: supgeekrodcom
+timezone: America/New_York

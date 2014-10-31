@@ -1,0 +1,15 @@
+---
+layout: default
+title: Works
+permalink: /work/
+---
+<div class="wrapper">
+	
+	<h2>Works</h2>
+	<ul class="postsList">
+	{% for post in site.categories['work'] %}
+		{% include posts-list.html %}
+	{% endfor %}
+	</ul>
+
+</div>

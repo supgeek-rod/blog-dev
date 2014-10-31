@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://supgeek-rod.com/sitemap.xml

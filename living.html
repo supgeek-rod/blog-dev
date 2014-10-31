@@ -1,0 +1,14 @@
+---
+layout: default
+title: Livings 
+permalink: /living/
+---
+<div class="wrapper">
+	
+	<h2>livings</h2>
+	<ul class="postsList">
+	{% for post in site.categories['living'] %}
+		{% include posts-list.html %}
+	{% endfor %}
+	</ul>
+</div>
