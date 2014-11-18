@@ -3,9 +3,7 @@ layout: default
 title: Hello Rod 
 ---
 <div class="wrapper">
-	<h2>Just do it</h2>
 	<ul class="postsList">
-		{% include doing-list.html %}
 		<h2>Posts</h2>
 		{% for post in site.posts limit:5 %}{% include posts-list.html %} {% endfor %}
 		<li><a href="/archive/">所有文章 + <small> {{ site.posts.size }} Posts</small></a></li>

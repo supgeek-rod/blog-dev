@@ -1,9 +1,8 @@
 ---
-title: Git 笔记
+title: 我的Terminal
 layout: post
 tags:
 categories:
     - unix-like
 ---
 
-mark
