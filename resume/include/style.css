@@ -1,0 +1,23 @@
+//
+#myAffix { font-size:16px !important; color:#DDD; position:fixed; top:1111px; } 
+div.affix { margin-top:60px; position:fixed; font-size:16px; }
+div.affix-top { margin-top:60px; position:fixed; font-size:16px; }
+div.affix a { color:#333; }
+div.affix-top a { color:#333; }
+
+#myAffix .active { background:#DDD; }
+
+hr.space { border-top:dashed 2px #DDD; }
+
+#main { border:dashed 2px #590202; border-left:none; border:none; }
+#main h2 { margin-bottom:20px; }
+#top a { color:#FFF; }
+
+#baseinfo { padding-left:26px; border-left-style:solid; border-left-width:4px; border-left-color:#428BCA; }
+#ability { padding-left:26px; border-left-style:solid; border-left-width:4px; border-left-color:#5CB85C; }
+#project { padding-left:26px; border-left-style:solid; border-left-width:4px; border-left-color:#428BCA; }
+#about { padding-left:26px; border-left-style:solid; border-left-width:4px; border-left-color:#5BC0DE; }
+
+
+#ability .col-xs-1 { margin-left:4px; }
+#ability .col-xs-10 { padding-left:0; padding-right:0; margin-left:20px; }
