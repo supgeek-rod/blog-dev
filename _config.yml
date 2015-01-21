@@ -4,7 +4,7 @@ redcarpet:
 permalink: /:year/:month/:day/:title 
 title: Sup Rod 
 url: http://supgeek-rod.com
-githubEditBaseURL: https://github.com/supgeek-rod/sup.rod/blog-dev/gh-pages/
+githubEditBaseURL: https://github.com/supgeek-rod/blog-dev/edit/gh-pages/
 subscribe: http://supgeek-rod.com/atom.xml
 exclude: [ README.md, newpost.rb ]
 domain: supgeek-rod.com
